@@ -1,4 +1,18 @@
-### Hi there 👋
+# Marco Abbadini
+
+## PhD Student in Computer Science and Engineering | Computer Security and Privacy
+
+### Research:
+- Computer Security
+- Privacy
+- Access Control
+- Data Protection
+
+### Websites:
+- [Personal Page](https://marcoabbadini.github.io/)
+- [Academic Page](https://cs.unibg.it/abbadini/)
+
+*More contact information can be found at the links above*
 
 <!--
 **marcoabbadini/marcoabbadini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
