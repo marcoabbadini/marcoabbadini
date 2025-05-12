@@ -1,8 +1,6 @@
-Marco Abbadini | PhD Student
-============================
+### Marco Abbadini, PhD
 
-Computer Science and Engineering - Computer Security and Privacy
-----------------------------------------------------------------
+#### Computer Science and Engineering - Computer Security and Privacy
 
 Research:
 Computer Security, Privacy, Access Control, Data Protection, Micro-architectural and Hardware Security
